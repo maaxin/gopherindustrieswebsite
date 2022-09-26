@@ -1,0 +1,23 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://maaxin@github.com/maaxin/gopherindustrieswebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maaxin/gopherindustrieswebsite/issues"
+  },
+  "homepage": "https://github.com/maaxin/gopherindustrieswebsite#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
